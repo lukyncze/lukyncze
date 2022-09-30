@@ -2,7 +2,7 @@
 
 I'm a front-end software engineer. I am really into UX and building consistent, clear and intuitive UIs. I enjoy working with TypeScript, especially in React (Next.js) ecosystem.
 
-💻 I’m currently working on [hire.dev](https://hire.dev/) and also on [STRÖER labs](https://jobs.stroeer-labs.com/) software.
+💻 I’m currently working on [STRÖER labs](https://jobs.stroeer-labs.com/) software.
 
 📨 You can reach me here:
 
