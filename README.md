@@ -4,6 +4,6 @@ I'm a front-end software engineer. I am really into UX and building consistent, 
 
 📨 You can reach me here:
 
-- E-mail: [lukas.sukenik@outlook.cz](mailto:lukas.sukenik@outlook.cz)
+- E-mail: [lukas@sukenik.cz](mailto:lukas@sukenik.cz)
 - LinkedIn: [@lukyncze](https://www.linkedin.com/in/lukyncze/)
 - Twitter: [@LukyNCZE](https://twitter.com/LukyNCZE)
