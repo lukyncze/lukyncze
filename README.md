@@ -1,6 +1,6 @@
 ### Hi there, I am Lukáš 👋
 
-I'm a full-stack software engineer. I am really into UX and building consistent, clear and intuitive UIs. I enjoy working with TypeScript, especially in React (Next.js) ecosystem.
+I'm a full-stack software engineer. I am really into UX and building consistent, clear and intuitive UIs. I enjoy working with TypeScript, especially in React/Angular ecosystem.
 
 📨 You can reach me here:
 
